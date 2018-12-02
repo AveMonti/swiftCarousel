@@ -46,6 +46,5 @@ extension ViewController : iCarouselDelegate, iCarouselDataSource {
         return imageView
     }
     
-    
 }
 
